@@ -2,6 +2,10 @@
 Resolução de desafio proposto pela Dio em que é necessário torar um app acessível para várias línguas. Nesse Caso Português, Inglês e Espanhol.
 
 
+
+
+
+
 ![WhatsApp Image 2023-10-13 at 14 15 39 (2)](https://github.com/SidneyFelintro/Internacionalizaca-o/assets/132857534/7d2dfe95-bbc3-4e12-9d77-280d4af75959)
 
 
